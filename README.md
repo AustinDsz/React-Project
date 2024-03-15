@@ -20,6 +20,13 @@ A Web-Application that allows to watch videos from Youtube through ```YouTube we
 - Visit any Channels and videos
 
 
+## Screenshots
+
+![App Screenshot](/screenshots/1.png)
+![App Screenshot](/screenshots/2.png)
+![App Screenshot](/screenshots/3.png)
+
+
 ## Installation
 
 To get YouTube API, first log in or create account on https://rapidapi.com/ .
@@ -56,7 +63,5 @@ Start the server
 ```
 
 
-## Screenshots
 
-![App Screenshot](https://github.com/AustinDsz/Weather-App/blob/main/screenshots/1.png)
 
