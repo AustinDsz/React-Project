@@ -1,7 +1,7 @@
 
 # Youtube Clone Application 
 
-A Web-Application that allows to watch videos from Youtube through ```YouTube web API```.
+A React Web-Application that allows to watch videos from Youtube through ```YouTube web API```.
 
 
 # Website
