@@ -6,7 +6,7 @@ A React Web-Application that allows to watch videos from Youtube through ```YouT
 
 # Website
 
-# https://yt-clone-6a896.firebaseapp.com/
+# https://video-application-d2091.firebaseapp.com/
 
 
 ## Tech Stack
