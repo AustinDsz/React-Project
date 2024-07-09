@@ -11,9 +11,10 @@ A React Web-Application that allows to watch videos from Youtube through ```YouT
 
 ## Tech Stack
 
-**Front-end:** HTML, CSS
+ HTML, CSS, JavaScript
 
-**Back-End:** Javascript, ReactJS
+ **Libraries**: ReactJS, Axios, MaterialUI
+ 
 
 ## Features
 
